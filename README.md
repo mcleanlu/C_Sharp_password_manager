@@ -6,7 +6,7 @@ This password manager is a console application written in C#. It allows users to
 
 The primary purpose of writing this software was to demonstrate my understanding of key programming concepts, including variables, expressions, conditionals, loops, functions, classes, file I/O operations, and structures in the C# language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1ye2i77_ezSbxj0RhQ2gkjcj4Vq6cIoIo/view?usp=sharing)
 
 # Development Environment
 
